@@ -8,6 +8,6 @@
 
 ### Developers:
 
-- Rodrigo Leutz - @rodrigoleutz
+- <a href="https://github.com/rodrigoleutz">Rodrigo Leutz</a>
 
 
